@@ -109,6 +109,57 @@ interface = gr.Interface(
 # Launch the app
 interface.launch()
 ```
+Another example with gradio blocks for more control over layout 
+
+```python
+
+import gradio as gr
+from transformers import pipeline
+
+# Load the translation pipeline
+pipe = pipeline("translation_en_to_de", model="t5-base")
+
+def translate(text):
+    return pipe(text)[0]["translation_text"]
+
+# Correct usage of gr.Blocks
+with gr.Blocks() as demo:
+    with gr.Row():
+        with gr.Column():
+            english = gr.Textbox(label="English Text", placeholder="Enter text in English")
+            translate_btn = gr.Button(value="Translate")
+        with gr.Column():
+            german = gr.Textbox(label="German Text", placeholder="Translation will appear here")
+    
+    translate_btn.click(translate, inputs=english, outputs=german)
+
+# Launch the app
+demo.launch(share=True)
+```
+
+## Creating the Interface with Blocks
+## Why Use Blocks?
+
+gr.Blocks allows advanced layouts for interfaces, providing control over the arrangement of components like text boxes, buttons, and outputs.
+
+## gr.Textbox:
+Input for English text (english).
+Output for German translation (german).
+
+## Attributes:
+label: Descriptive text.
+placeholder: Placeholder hint inside the box.
+
+## gr.Button:
+Triggers the translation function when clicked.
+
+Label: "Translate".
+gr.Row and gr.Column:
+Arrange components horizontally (row) and vertically (column).
+
+## click:
+Connects the button (translate_btn) to the function (translate).
+Maps inputs (English text) and outputs (German text).
 
 ### Step 4: Specify Input and Output
 Define how users will interact with your app using Gradio's input and output components.
