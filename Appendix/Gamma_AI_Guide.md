@@ -8,6 +8,7 @@ In the digital era, creating impactful content that captures attention is both a
 
 Gamma AI is an all-in-one content generation platform powered by artificial intelligence. Its versatile tools allow users to create engaging presentations, webpages, and documents effortlessly. The platform’s AI-driven approach removes the hassle of traditional content creation, replacing it with automation and smart suggestions.
 
+
 ---
 
 ## **Key Features of Gamma AI**
