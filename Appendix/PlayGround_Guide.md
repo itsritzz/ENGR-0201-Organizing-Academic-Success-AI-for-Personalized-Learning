@@ -17,28 +17,41 @@ Playground AI is an intuitive platform for creating visual designs using artific
 2. **Create a New Project**:
    - Click **"New Project"** to start from scratch.
    - Set the dimensions for your canvas (e.g., `1080x1080` for Instagram posts).
+   ![image](https://github.com/user-attachments/assets/d4641d09-0170-43ba-b8ef-86a26227cc56)
+
 
 ---
 
 ## **Step 3: Define Your Concept**
 1. **Write a Detailed Prompt**:
    - In the input text box, describe the design you want to generate.
-   - Example: `A futuristic cityscape at night, glowing neon signs, cyberpunk theme.`
+   - Example: `Replace fries with onion rings.`
+   ![image](https://github.com/user-attachments/assets/f00ed4ba-6a05-4be9-a641-b5557aed5726)
+
+   
 2. **Use Keywords for Style**:
    - Add specific artistic styles (e.g., `minimalist`, `surreal`, `abstract`).
    - Mention color schemes or elements you want (e.g., `pastel colors`, `3D effect`).
+    ![image](https://github.com/user-attachments/assets/f9d65588-9854-4c06-ae35-f964f65b2b2c)
+ 
+
 
 ---
 
 ## **Step 4: Customize the Output Settings**
 1. **Style Options**:
    - Select artistic styles, e.g., `photography`, `digital art`, `anime`, `realism`.
+   ![image](https://github.com/user-attachments/assets/0d992ae6-2802-40bf-92f1-375ea22487bf)
+
 2. **Aspect Ratio**:
    - Adjust the aspect ratio based on your design needs (e.g., `square`, `wide`, `portrait`).
+   ![image](https://github.com/user-attachments/assets/810ac5fb-5237-448e-84fd-e59a904036b2)
+
 3. **Quality Settings**:
    - Choose high or low quality depending on how detailed you want the image to be.
 4. **Iterations**:
    - Set the number of variations the AI will generate for your prompt.
+
 
 ---
 
@@ -47,29 +60,20 @@ Playground AI is an intuitive platform for creating visual designs using artific
    - The AI will process your prompt and generate one or multiple designs.
 2. **Preview Results**:
    - View all generated designs and pick the ones that resonate with your vision.
+     ![image](https://github.com/user-attachments/assets/4cd674ea-3b8e-459b-a71d-be3ccb896c79)
 
 ---
 
-## **Step 6: Refine and Edit**
-1. **Select Your Favorite Design**:
-   - Choose a design for further adjustments.
-2. **Adjustments**:
-   - Modify aspects like brightness, contrast, or saturation using built-in tools.
-3. **Inpainting/Outpainting**:
-   - Use **inpainting** to edit specific areas of the image.
-   - Use **outpainting** to extend the image beyond its current borders.
-
----
-
-## **Step 7: Export Your Design**
+## **Step 6: Export Your Design**
 1. **Save Locally**:
    - Click **"Download"** to save the image to your device in your desired format (JPEG, PNG).
 2. **Share Online**:
    - Directly share your design on platforms like Instagram, Pinterest, or Behance.
+![image](https://github.com/user-attachments/assets/de5b2318-4cf5-403f-8d48-044fc2962252)
 
 ---
 
-## **Step 8: Advanced Features (Optional)**
+## **Step 7: Advanced Features (Optional)**
 1. **Batch Processing**:
    - Upload multiple prompts for batch processing if you're working on bulk designs.
 2. **Custom Models**:
@@ -79,7 +83,7 @@ Playground AI is an intuitive platform for creating visual designs using artific
 
 ---
 
-## **Step 9: Practice and Iterate**
+## **Step 8: Practice and Iterate**
 1. **Experiment with Prompts**:
    - Refine your inputs to better communicate your vision to the AI.
    - Use action verbs and adjectives for more control.
@@ -88,7 +92,7 @@ Playground AI is an intuitive platform for creating visual designs using artific
 
 ---
 
-## **Step 10: Learn from Community**
+## **Step 9: Learn from Community**
 1. **Community Gallery**:
    - Browse the gallery to see designs from other users for inspiration.
 2. **Join Forums**:
