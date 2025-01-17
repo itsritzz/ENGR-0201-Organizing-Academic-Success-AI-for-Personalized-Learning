@@ -1,6 +1,6 @@
 # DALL·E – AI-Generated Image Creation
 
-![alt text](dall.e-5.png)
+![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/dall.e-5.png)
 
 
 ## 1. Title and Introduction
@@ -71,11 +71,11 @@ DALL·E is an AI model that generates detailed and creative images based on text
 
 ### **Getting Started:**
 1. Visit [OpenAI’s DALL·E Platform](https://openai.com/dall-e).
-   ![alt text](dall.e.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/dall.e.png)
 2. Create an account or log in using your credentials.
 3. Familiarize yourself with the text input field and options for generating images.
 4. Dall.E comes with chat-gpt so it will have a similar environemnent that of chatgpt.
-   ![alt text](dall.e-1.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/dall.e-1.png)
 
 ### **Creating an Image:**
 1. Enter a descriptive text prompt in the input field (e.g., "A futuristic cityscape at sunset with flying cars").
@@ -84,17 +84,17 @@ DALL·E is an AI model that generates detailed and creative images based on text
 
 ### **Refining Results:**
 1. Use more detailed or specific prompts to refine outputs (e.g., "A futuristic cityscape at sunset with flying cars and neon lights").
-   ![alt text](dall.e-2.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/dall.e-2.png)
 2. Iterate by modifying keywords, styles, or elements in the prompt.
 3. You can click on image and edit selections by clicking brush icon on top left corner of image
    
-   ![alt text](dall.e-3.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/dall.e-3.png)
 
 ### **Downloading Images:**
 1. Once satisfied with the result, click on the desired image.
 2. Download the image in the provided resolution for personal or professional use.
    
-   ![alt text](dall.e-4.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/dall.e-4.png)
 
 ### **Using DALL·E in Workflows:**
 1. Access DALL·E’s API (if available) for integrating image generation into applications.
