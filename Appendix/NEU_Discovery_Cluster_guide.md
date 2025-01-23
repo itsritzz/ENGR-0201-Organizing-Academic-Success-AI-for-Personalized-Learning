@@ -59,7 +59,7 @@ pip3 install torch torchvision torchaudio
 
 ## Step 3: After you setup the enviroment. Here is an simple example for run a huggingface model.
 
-### **Create a new Python script (remember run `pip install** transformers` first)
+### Create a new Python script (remember run `pip install transformers` first)
 
 Let us create a Python script called `run_hf_model.py`:
 
