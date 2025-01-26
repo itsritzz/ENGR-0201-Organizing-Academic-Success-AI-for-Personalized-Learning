@@ -90,38 +90,37 @@ Conducting thorough research is the cornerstone of any well-prepared presentatio
 
 ## Section 2: Presentation Techniques
 
-### **Storytelling**
-- **Start with a Powerful Anecdote:** Engage your audience emotionally.
-  - Example: Begin a presentation on climate change with a story about an individual impacted by extreme weather.
-- **Structure the Narrative:** Use classic frameworks like the Hero's Journey.
-  - Example: Frame a product launch presentation by presenting the user’s challenges and positioning the product as the "mentor" that leads to success.
+#### **Storytelling**
+- **Start with a Powerful Anecdote:** Engage your audience emotionally.  
+  **Example:** Begin a presentation on climate change with a story about an individual impacted by extreme weather.
+- **Structure the Narrative:** Use classic frameworks like the Hero's Journey.  
+  **Example:** Frame a product launch presentation by presenting the user’s challenges and positioning the product as the "mentor" that leads to success.
 
-### **Practice Extensively**
-- Rehearse under realistic conditions, record yourself, and seek feedback.
-  - Example: Record a video of your presentation, review for clarity and timing, and share with a trusted colleague for critique.
+#### **Practice Extensively**
+- **Rehearse under Realistic Conditions:** Record yourself, review for clarity and timing, and seek feedback.  
+  **Example:** Record a video of your presentation, analyze it for areas of improvement, and share it with a trusted colleague for critique.
 
-### **Audience Engagement**
-- Use visuals, vocal variety, and body language.
-  - Example: A presenter explaining a complex dataset uses gestures to guide attention to specific data points while varying their tone to emphasize critical insights.
+#### **Audience Engagement**
+- **Use Visuals, Vocal Variety, and Body Language:** These tools keep the audience engaged and focused.  
+  **Example:** A presenter explaining a complex dataset uses gestures to guide attention to specific data points while varying their tone to emphasize critical insights.
 
-### **Conciseness**
-- Limit presentations to under 18 minutes and focus on key messages.
-  - Example: A startup pitch summarizing their solution and impact in under 10 slides.
+#### **Conciseness**
+- **Limit Presentation Time:** Keep it under 18 minutes and focus on key messages.  
+  **Example:** A startup pitch summarizes its solution and impact in under 10 slides.
 
-### **Effective Visuals**
-- Use minimal text and high-quality images.
-  - Example: Replace a bullet list with an infographic that conveys the same points visually.
-- Emphasize one idea per slide to avoid clutter and guide focus.
+#### **Effective Visuals**
+- **Use Minimal Text and High-Quality Images:** Visuals should complement the spoken content without overcrowding slides.  
+  **Example:** Replace a bullet list with an infographic that conveys the same points visually.
+- **Emphasize One Idea per Slide:** Avoid clutter to guide focus effectively.
 
-### **Audience-Centered Design**
-- Optimize visuals for viewer devices (e.g., larger fonts for mobile viewers).
-  - Example: A webinar presentation uses high-contrast text and simplified charts to ensure accessibility across devices.
-- Ensure high contrast between text and background for readability.
+#### **Audience-Centered Design**
+- **Optimize Visuals for Viewer Devices:** Use larger fonts for mobile viewers and simplify visuals for accessibility.  
+  **Example:** A webinar presentation uses high-contrast text and charts to ensure readability across devices.
+- **Ensure High Contrast:** Maintain high contrast between text and background for readability.
 
-### **Call to Action**
-- End with a clear takeaway or actionable step.
-  - Example: Conclude a sustainability talk by urging businesses to adopt renewable energy and offering a toolkit for next steps.
-
+#### **Call to Action**
+- **End with a Clear Takeaway or Actionable Step:** Leave the audience with a compelling next step.  
+  **Example:** Conclude a sustainability talk by urging businesses to adopt renewable energy and offering a toolkit for implementation.
 ---
 
 ## Section 3: Visual Thinking Techniques
