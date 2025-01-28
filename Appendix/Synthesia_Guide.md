@@ -31,26 +31,39 @@ Synthesia is an advanced AI-powered video creation tool that allows users to gen
 ## 3. Log In to Your Dashboard
 - Log in to access your Synthesia dashboard.
 - The dashboard is where you create and manage video projects.
+- ![image](https://github.com/user-attachments/assets/6e775e27-3b23-4ed3-a5a9-bfa974120801)
+
 
 ## 4. Start a New Project
 - Click the **"Create Video"** button.
 - Enter a title for your video.
+![image](https://github.com/user-attachments/assets/76d22e61-59be-4c2e-b3fb-35f7c66dd400)
+
 
 ## 5. Select an AI Avatar
 - Choose from Synthesia’s pre-designed avatars.
 - If supported by your plan, upload a custom avatar.
 
+
 ## 6. Write Your Script
 - Enter the text you want the AI avatar to speak in the script box.
 - Use simple, clear language to ensure the voice output sounds natural.
+![image](https://github.com/user-attachments/assets/633cc979-4c06-4399-b168-642d116b54ca)
+
 
 ## 7. Choose the Language and Voice
 - Select your preferred language and accent from the options provided.
 - Preview the voice to ensure it matches your needs.
+![image](https://github.com/user-attachments/assets/15eb4320-bc52-4cca-96b7-3f9064e71c6d)
+![image](https://github.com/user-attachments/assets/07d94b82-f27f-48b1-b6b7-9cfa19be90b7)
+
+
 
 ## 8. Customize the Video Layout
 - Add visuals like text overlays, images, or background colors.
 - Use Synthesia’s templates or upload your own assets, such as logos or images.
+![image](https://github.com/user-attachments/assets/504b53af-0db7-4e1a-8e96-9a30a822ffb7)
+
 
 ## 9. Add Background Music (Optional)
 - Select background music from Synthesia’s library or upload your own.
@@ -63,6 +76,8 @@ Synthesia is an advanced AI-powered video creation tool that allows users to gen
 ## 11. Export the Video
 - Click the **“Export”** button once satisfied with the preview.
 - Wait for the video to render. This may take a few minutes depending on its length.
+![image](https://github.com/user-attachments/assets/2439536a-3059-448a-87cb-1a01615ebbde)
+
 
 ## 12. Download or Share Your Video
 - Download the video in MP4 format.
