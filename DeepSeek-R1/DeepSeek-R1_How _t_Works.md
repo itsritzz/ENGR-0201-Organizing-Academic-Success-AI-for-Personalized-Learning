@@ -1,5 +1,6 @@
 ### **DeepSeek-R1: How It Works and What Makes It Special**
 #### **Summary for a Talk**
+Nik Bear Brown
 
 ---
 
