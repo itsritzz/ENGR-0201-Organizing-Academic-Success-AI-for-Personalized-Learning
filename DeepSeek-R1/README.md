@@ -1,6 +1,7 @@
 ###  DeepSeek-R1 & Open R1  
 
 [https://github.com/deepseek-ai/DeepSeek-R1/](https://github.com/deepseek-ai/DeepSeek-R1/)
+[https://github.com/huggingface/open-r1](https://github.com/huggingface/open-r1)
 
 ### **1. Introduction to DeepSeek-R1**
    - What is DeepSeek-R1?
