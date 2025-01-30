@@ -1,6 +1,4 @@
-**OpenAI Accuses DeepSeek of Copying its Copycat AI*
-
----
+# OpenAI Accuses DeepSeek of Copying its Copycat AI
 
 **Hey, everyone!** Today, we’re diving into the latest drama in the AI world—OpenAI is mad. Like, really mad. And why? Because DeepSeek, a Chinese AI company, allegedly "distilled" ChatGPT’s knowledge to build its own chatbot. But wait—didn’t OpenAI train ChatGPT on, well… all of the internet? It’s irony at its finest. Let’s break it down.
 
