@@ -1,4 +1,4 @@
-**OpenAI Claims DeepSeek Plagiarized its Plagiarism Machine**
+**OpenAI Accuses DeepSeek of Copying its Copycat AI*
 
 ---
 
