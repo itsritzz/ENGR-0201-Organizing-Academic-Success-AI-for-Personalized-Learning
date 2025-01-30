@@ -35,18 +35,24 @@ Instead of being spoon-fed correct answers, DeepSeek learns by trial and error�
 
 ### **Group Relative Policy Optimization: Smarter Learning**
 DeepSeek refines its learning through an algorithm called **Group Relative Policy Optimization (GRPO)**, which is just a fancy way of saying it improves itself **without needing an enormous separate AI to judge its answers**. That makes its training process **way more efficient** than OpenAI’s methods.
+DeepSeek refines its learning through an algorithm called **Group Relative Policy Optimization (GRPO)**, which is just a fancy way of saying it improves itself without needing an enormous separate AI to judge its answers. That makes its training process way more efficient than OpenAI’s methods.
 
-The **Group Relative Policy Optimization (GRPO)** equation in the image appears to be:
+## GRPO Equation
 
-\[
+```math
 GRPO(\theta) = \mathbb{E}_{q \in Q, o_i \in \Pi_{old}} \left[ \frac{1}{G} \sum_{i=1}^{G} \min \left( \frac{\Pi_{\theta}(o_i | q)}{\Pi_{old}(o_i | q)}, 1 + \epsilon \right) A_i \right] - \beta D_{KL} (\Pi_{\theta} || \Pi_{ref})
-\]
+```
 
 Now, let's break this down into **5 simple parts**, explaining it like you're a teenager who loves video games:
 
 ---
 
-### **1️⃣ The Expectation Term** \(\mathbb{E}_{q \in Q, o_i \in \Pi_{old}} \)
+## 1️⃣ The Expectation Term
+
+```math
+\mathbb{E}_{q \in Q, o_i \in \Pi_{old}}
+```
+
 🔍 **What it means:**  
 This just means **"on average"** over all the data we have.  
 
@@ -55,7 +61,12 @@ Imagine you’re playing a game and trying to find the best way to win. You look
 
 ---
 
-### **2️⃣ The Policy Likelihood Ratio** \(\frac{\Pi_{\theta}(o_i | q)}{\Pi_{old}(o_i | q)}\)
+## 2️⃣ The Policy Likelihood Ratio
+
+```math
+\frac{\Pi_{\theta}(o_i | q)}{\Pi_{old}(o_i | q)}
+```
+
 🔍 **What it means:**  
 This fraction compares **the new way of doing things** (\(\Pi_{\theta}\)) with **the old way** (\(\Pi_{old}\)). It shows how different the new strategy is from the old one.
 
@@ -64,7 +75,12 @@ Let’s say you used to aim for the head in a shooting game, but now you’re tr
 
 ---
 
-### **3️⃣ The Clipping Mechanism** \(\min \left( \frac{\Pi_{\theta}(o_i | q)}{\Pi_{old}(o_i | q)}, 1 + \epsilon \right) A_i \)
+## 3️⃣ The Clipping Mechanism
+
+```math
+\min \left( \frac{\Pi_{\theta}(o_i | q)}{\Pi_{old}(o_i | q)}, 1 + \epsilon \right) A_i
+```
+
 🔍 **What it means:**  
 This prevents the AI from making **huge, reckless changes** to its strategy by limiting how much it can update at a time.
 
@@ -73,7 +89,12 @@ Imagine if every time you lost a round, you completely changed your playstyle—
 
 ---
 
-### **4️⃣ The Advantage Term** \( A_i = R_i - R_{mean} \)
+## 4️⃣ The Advantage Term
+
+```math
+A_i = R_i - R_{mean}
+```
+
 🔍 **What it means:**  
 This part measures how much **better or worse** an action is compared to the average.
 
@@ -82,7 +103,12 @@ If your usual game score is **100 points**, but you just scored **150 points**, 
 
 ---
 
-### **5️⃣ KL Divergence Term** \(- \beta D_{KL} (\Pi_{\theta} || \Pi_{ref})\)
+## 5️⃣ KL Divergence Term
+
+```math
+- \beta D_{KL} (\Pi_{\theta} || \Pi_{ref})
+```
+
 🔍 **What it means:**  
 This makes sure the AI doesn’t change **too much** and stays similar to what has worked before.
 
@@ -91,7 +117,8 @@ Imagine you get really good at one game strategy, but suddenly try something tot
 
 ---
 
-### **Summary**
+## Summary
+
 GRPO is like training to be a **better gamer**:
 - **Step 1:** Look at what worked before.  
 - **Step 2:** Compare your new strategy to the old one.  
@@ -100,7 +127,7 @@ GRPO is like training to be a **better gamer**:
 - **Step 5:** Don't change too much at once—stick to what works!  
 
 By following these steps, **DeepSeek trains itself in a smart way without needing a big separate AI to judge it**—making it **faster and more efficient** than OpenAI’s older training methods! 🚀
---- 
+
 
 By following these steps, **DeepSeek trains itself in a smart way without needing a big separate AI to judge it**—making it **faster and more efficient** than OpenAI’s older training methods! 🚀
 
