@@ -89,6 +89,17 @@ This makes sure the AI doesn’t change **too much** and stays similar to what h
 🎮 **Game Example:**  
 Imagine you get really good at one game strategy, but suddenly try something totally random that makes no sense. This term **pulls you back** so you don’t drift too far away from what actually works.
 
+---
+
+### **Summary**
+GRPO is like training to be a **better gamer**:
+- **Step 1:** Look at what worked before.  
+- **Step 2:** Compare your new strategy to the old one.  
+- **Step 3:** Make small, controlled improvements.  
+- **Step 4:** Learn from actions that really help you win.  
+- **Step 5:** Don't change too much at once—stick to what works!  
+
+By following these steps, **DeepSeek trains itself in a smart way without needing a big separate AI to judge it**—making it **faster and more efficient** than OpenAI’s older training methods! 🚀
 --- 
 
 By following these steps, **DeepSeek trains itself in a smart way without needing a big separate AI to judge it**—making it **faster and more efficient** than OpenAI’s older training methods! 🚀
