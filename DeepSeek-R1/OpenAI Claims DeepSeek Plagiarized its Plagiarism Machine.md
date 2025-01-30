@@ -25,6 +25,85 @@ SFT, focuses on **matching a final goal**—it tells the AI exactly what the cor
 
 RL, on the other hand, focuses on **matching steps toward a goal**—the AI isn’t given the final answer but is instead rewarded for improving its reasoning along the way. It’s like teaching a student how to solve a problem by giving them feedback on each step of their work. This allows DeepSeek to develop reasoning skills rather than just memorizing responses.
 
+### **Explaining the Image Using a Video Game Example 🎮 (with Absolute Reward vs. Baseline Comparison)**
+
+This diagram represents **Reinforcement Learning (RL)**, which is how AI learns to make smart decisions by **trying things, seeing what works, and improving over time**—**just like getting better at a video game!**
+
+Think of this as **playing your favorite game** where you control a character and learn how to win. Here's how it works:
+
+---
+
+### 🕹 **1️⃣ The Agent = YOU (the Player)**
+- The **Agent** is like **you** when you play a game.
+- It **decides what to do** next, just like you press buttons on your controller.
+
+---
+
+### 🌍 **2️⃣ The Environment = The Game World**
+- The **Environment** is the **game world**—it responds to what you do.
+- If you're playing a racing game, it's the track, the cars, and everything around you.
+- If you're playing a shooting game, it's the enemies, weapons, and obstacles.
+
+---
+
+### 🎯 **3️⃣ The State = The Current Game Situation**
+- The **State (\(S_t\))** is what the game looks like **right now**.
+- Example: If you're playing a Mario game, the state tells you **where Mario is, what enemies are near, and how much time is left.**
+
+---
+
+### 🏆 **4️⃣ The Reward = Your Score (Absolute Reward vs. Baseline Comparison)**
+
+In games, rewards can be calculated in **two different ways**:
+
+#### ✅ **(A) Absolute Reward (Direct Score)**
+- This is the actual points you earn.
+- Example: In a racing game, finishing a lap in **50 seconds gives you 500 points**, and finishing in **40 seconds gives you 600 points**.
+- The AI just **sees the raw score** and tries to get the highest possible points.
+
+#### ⚖ **(B) Baseline Comparison (Relative Score)**
+- Instead of looking at just the raw score, we compare it **to an expected or average score** (baseline).
+- Example: If most players finish the race in **50 seconds**, the AI compares itself to that **baseline**.
+  - If it finishes in **45 seconds**, it gets a **positive reward** (it's doing better than average).
+  - If it finishes in **55 seconds**, it gets a **negative reward** (it's doing worse than average).
+
+🎮 **Game Example for Baseline Comparison:**
+- If you're playing a shooting game and you usually hit **70% of your shots**, then:
+  - **Hitting 80%** in a match gives you a **positive reward** (you're doing better).
+  - **Hitting 60%** gives you a **negative reward** (you're performing worse).
+
+👀 **Why is this useful?**
+- Absolute rewards work when you just need to **maximize points** (like a high score game).
+- Baseline comparison helps when you need to **improve over time**, rather than just getting a raw score.
+
+---
+
+### 🎮 **5️⃣ The Action = What You Do Next**
+- The **Action (\(A_t\))** is what **you decide to do**.
+- Example: In a shooting game, you might decide to **aim and fire**. In a racing game, you might decide to **speed up or drift**.
+
+---
+
+### 🔄 **How It All Loops Together**
+1. **You see the game state** (\(S_t\)) → Example: You're low on health, and an enemy is nearby.
+2. **You take an action** (\(A_t\)) → You decide to dodge and fire your weapon.
+3. **The game responds** (Environment) → You either hit the enemy (**absolute reward: +10 points**, or **baseline: better than your usual accuracy**).
+4. **The game updates your situation** (\(S_{t+1}\)) → You move to a new state and repeat.
+
+This cycle keeps repeating, just like you keep **learning and improving at the game** over time.
+
+---
+
+### 🚀 **How AI Uses This to Get Good**
+- AI **tries different actions** (like you trying new strategies in a game).
+- It **learns from rewards**:
+  - **Absolute Rewards** → Just get more points!
+  - **Baseline Comparison** → Get better than before!
+- Over time, AI **figures out the best way to win**—just like **you get better at a game the more you play!**
+
+So, **AI in Reinforcement Learning is like a beginner gamer who keeps practicing until they become a pro!** 🎮🔥
+
+
 ### **Chain of Thought: Thinking Like a Human**
 DeepSeek uses a technique called **Chain of Thought (CoT) prompting**, where it breaks down problems step by step, just like you would when solving a math problem. But CoT doesn’t just ask for the final answer—it demands that the model **show its work**. By explicitly outlining its reasoning process, DeepSeek can make its thought process transparent. 
 
