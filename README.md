@@ -3,45 +3,59 @@
 
 ![Course Banner](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/a5a87895af4b2ac781a5eeb9df884655c07a545d/ENGR_0201/umddofnwzoy.png)  
 
-## Course Overview  
 
-**ENGR 0201: Organizing Academic Success: AI for Personalized Learning** is a 10-day inter-semester course designed to empower undergraduate and graduate students to use AI tools to enhance their academic success. This free, non-credit course focuses on creating personalized AI-powered knowledge hubs to organize materials, streamline study practices, and improve collaboration while introducing ethical considerations in AI use.
+### **Transform Your Learning with AI – ENGR 0201 (Free Course + Certificate!)**  
+**📢 Open to All Northeastern Students & Staff**  
 
----
+🔗 **Register Now (It’s Free!):** [https://northeastern.instructure.com/enroll/8CXY86](https://northeastern.instructure.com/enroll/8CXY86)  
 
-### Course Details  
-
-- **Duration:**  
-  - Week 1: December 16–20, 2024  
-  - Week 2: January 6–10, 2025  
-- **Schedule:**  
-  - Morning Sessions: 10:00 AM – 12:00 PM ET  
-  - Afternoon Sessions: 2:00 PM – 4:00 PM ET  
-- **Modality:** Synchronous live sessions (recordings available for asynchronous participation)  
-- **Eligibility:** Open to all Northeastern students  
-- **Registration:** [Enroll Now](https://northeastern.instructure.com/enroll/XXDTD7)  
+Take advantage of this **free opportunity** to enhance your academic and professional skills with **ENGR 0201: Personalized AI for Learning!** This course empowers you to **leverage AI** for organizing study materials, creating personalized learning strategies, and improving collaboration on projects.  
+🎓 **Earn a Digital Badge/Certificate Upon Completion!**  
 
 ---
 
-### Key Features  
-
-- Build and maintain personalized AI-powered knowledge hubs.  
-- Use AI tools for summarizing, organizing, and integrating academic materials.  
-- Create custom study tools and collaborative workspaces.  
-- Explore advanced AI applications for project management and visualization.  
-- Address ethical considerations in AI use for academics and beyond.  
+### **What You’ll Gain:**  
+✅ **Flexible Learning:** Attend **live** sessions or watch **recordings** anytime.  
+✅ **AI-Powered Study Tools:** Create **custom study guides, structured notes,** and find **supplemental resources** like simulations and research articles.  
+✅ **Collaboration Skills:** Build **shared knowledge hubs** for team projects and assignments.  
+✅ **AI Evaluation:** Learn how to **assess AI reliability and accuracy** for academic use.  
+✅ **Real-World Applications:** Apply AI tools to **academic and engineering challenges**.
 
 ---
 
-### Getting Started  
+### **Course Details:**  
+📅 **Duration:** January 18 – February 22, 2025  
+📍 **Modality:** Live Zoom sessions (recordings available)  
+🎓 **Eligibility:** Open to all **Northeastern students & staff**  
+📚 **Lecture:** **Saturdays, 3-4 PM (EST) via Zoom**  
+🔬 **Labs:**  
+- Five **hands-on labs** + **final project** required for badge certification.  
+- **TA Office Hours:** Five TAs offering **2 hours/week each** for lab support.  
 
-To access course resources and materials, clone the repository:  
+---
 
-```bash  
-git clone https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning.git  
-cd ENGR_0201
-```  
+### **Key Topics Include:**  
+📌 Setting up **AI-powered knowledge hubs**  
+📌 Organizing and structuring **academic materials**  
+📌 Integrating **supplementary resources** into your workflow  
+📌 Creating **custom study tools & collaborative workspaces**  
+📌 Ethical & effective **AI usage** in academia  
 
+---
+
+### **Why Join?**  
+🚀 **100% Free** – No cost to enroll!  
+🏅 **Earn a Digital Badge/Certificate** upon completion.  
+🤖 **Master AI Skills** to supercharge your academic success!  
+
+📢 **Don’t miss out!**  
+
+🔗 **Register Now (Free!):** [https://northeastern.instructure.com/enroll/8CXY86](https://northeastern.instructure.com/enroll/8CXY86)  
+📂 **Class GitHub Repo:** [https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning)  
+
+---
+
+This revised version improves readability, emphasizes the **benefits upfront**, and enhances **engagement** with bullet points and formatting. 🚀 Let me know if you’d like any other tweaks!
 ---
 
 ### Course Outline  
