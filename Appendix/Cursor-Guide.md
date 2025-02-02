@@ -1,6 +1,6 @@
 # Cursor AI – AI-Powered Code Editor
 
-!(https://www.cursor.com)
+(https://www.cursor.com)
 
 
 ## Introduction
@@ -29,6 +29,8 @@ Cursor AI caters to:
 
 ## Present Models in Cursor AI
 Cursor AI integrates multiple state-of-the-art AI models to enhance the coding experience. These models include:
+   <img width="468" alt="image" src="https://github.com/user-attachments/assets/5a277777-8978-4b17-a669-df9bcac6096d" />
+
 1. **GPT-based Models:** Used for intelligent code suggestions, completions, and explanations.
 2. **CodeBERT:** Specially trained on programming languages to improve code comprehension and debugging.
 3. **Copilot Integration:** Provides real-time assistance similar to GitHub Copilot.
@@ -44,6 +46,7 @@ These models work together to provide an intuitive and responsive coding environ
 1. **AI-Assisted Code Completion**  
    - Auto-completes code based on context and best practices.
    - Predicts the next lines of code with high accuracy.
+   <img width="468" alt="image" src="https://github.com/user-attachments/assets/748e0987-a70c-4956-bae1-98ab543a4470" />
 
 2. **Smart Debugging**  
    - Detects errors and suggests possible fixes.
@@ -52,6 +55,8 @@ These models work together to provide an intuitive and responsive coding environ
 3. **Code Documentation**  
    - Automatically generates inline documentation and comments.
    - Helps explain complex code segments with AI assistance.
+   <img width="468" alt="image" src="https://github.com/user-attachments/assets/16ef0d51-872b-4d4e-9231-fc51a8d79d9e" />
+
 
 4. **Multi-Language Support**  
    - Supports various programming languages, including Python, JavaScript, Java, and more.
@@ -82,7 +87,11 @@ These models work together to provide an intuitive and responsive coding environ
 
 ### Getting Started:
 1. Download and install Cursor AI from the official website.
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/ccbef7c4-316d-4f49-8ada-f4c6f04bf37d" />
+
 2. Open the editor and set up your preferred programming environment.
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/683dac45-260f-4623-a2d9-b58362dec7ca" />
+
 3. Start coding and leverage AI-powered suggestions.
 
 ### Using AI Assistance:
@@ -131,6 +140,8 @@ These models work together to provide an intuitive and responsive coding environ
    - Advanced AI completion and debugging.
    - Priority support and collaboration features.
    cursor-price.png
+   <img width="468" alt="image" src="https://github.com/user-attachments/assets/588667ce-267f-4719-9324-41b1bd247891" />
+
 
 Visit [Cursor AI Pricing](https://www.cursor.ai) for details.
 
