@@ -68,11 +68,16 @@ V0 caters to:
 
 ### Getting Started:
 1. Visit [V0.dev](https://v0.dev) and create an account.
-![V0-Home](V0-Home.png)
+![image](https://github.com/user-attachments/assets/83db36e8-3193-42a2-842b-38548c3c7b2f)
+
 2. Enter a natural language prompt describing the UI you need.
-![V0-Prompt](V0-Prompt.png)
+   
+ ![image](https://github.com/user-attachments/assets/dee09a17-7f60-478d-a5f0-534952bf703f)
+
 3. Review and refine the generated component.
-![V0-result](V0-result.png)
+   
+ ![image](https://github.com/user-attachments/assets/d9c6ccf6-8e0d-4519-aaa8-7a3794f7c9d0)
+
 4. Copy or export the code to your project.
 
 
