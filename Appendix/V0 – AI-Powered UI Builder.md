@@ -123,6 +123,8 @@ V0 caters to:
    - Additional export and integration features.
    - Priority support and extended capabilities.
 
+ ![image](https://github.com/user-attachments/assets/bba1e7a5-41c4-43ce-91d5-155fe0d5f8b1)
+
 Visit the [V0 Pricing Page](https://v0.dev/pricing) for more details.
 
 ---
