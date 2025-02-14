@@ -38,6 +38,8 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
 ### **Step 1: Access Bland.ai Dashboard**
 1. Visit the [Bland.ai Dashboard](https://app.bland.ai/dashboard).
 2. Log in with your account or sign up to create one.
+   ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI1.png)
+
 
 ---
 
@@ -47,6 +49,8 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
    - Server status and latency.
    - Daily and hourly usage caps based on your subscription plan.
 2. Scale up your infrastructure as needed by selecting from **Build**, **Scale**, or **Enterprise** plans.
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI2.png)
+
 
 ---
 
@@ -54,6 +58,7 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
 1. Access the **Voice Library** to browse curated voices.
 2. Play voice samples or clone your own voice for a custom AI agent.
 3. Use multilingual voices to expand your reach and cater to diverse audiences.
+ ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI12.png)
 
 ---
 
@@ -62,6 +67,7 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
 2. Use templates like **Restaurant Reservation** or create a new pathway tailored to your business needs.
 3. Add custom triggers, responses, and actions to build a seamless workflow.
 4. Upload audio or MP3 files to enhance your pathways if needed.
+ ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI8.png)
 
 ---
 
@@ -69,6 +75,7 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
 1. Open the **Event Triggers** tab and select **Create First Trigger**.
 2. Set up endpoints for automating calls based on predefined events or customer actions.
 3. Use APIs to dynamically initiate calls as part of your workflow.
+ ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI10.png)
 
 ---
 
@@ -76,6 +83,7 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
 1. Navigate to the **Phone Numbers** tab to purchase or manage inbound numbers.
 2. Select a phone number based on area code and configure it for call workflows.
 3. Use BYOT (Bring Your Own Twilio) integration if preferred.
+ ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI11.png)
 
 ---
 
@@ -88,6 +96,7 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
    - Voice preferences.
    - Pathway ID and prompts.
 3. Preview the API request in your preferred coding language (e.g., Python, JavaScript) and send the call.
+ ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI7.png)
 
 ---
 
@@ -95,12 +104,16 @@ Bland.ai is a comprehensive platform for creating AI-powered phone calls with hu
 1. Access the **Call Logs** tab to view details about completed, active, or failed calls.
 2. Filter logs by date, tags, or call status.
 3. Export call data for further analysis or auditing purposes.
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI6.png)
+    ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI4.png)
+
 
 ---
 
 ### **Step 9: Utilize Tools and Knowledge Bases**
 1. Create and manage tools for workflow automation in the **Tools** tab.
 2. Use the **Knowledge Base** section to upload and organize documents, enabling AI agents to provide accurate and contextual responses.
+ ![BlandAI Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/BlandAI15.png)
 
 ---
 
