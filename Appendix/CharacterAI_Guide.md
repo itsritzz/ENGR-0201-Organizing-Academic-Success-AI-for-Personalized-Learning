@@ -1,4 +1,4 @@
-# Character.AI Guide
+# CharacterAI
 
 ## Introduction
 Character.AI is an advanced chatbot platform that allows users to interact with AI-generated characters. These characters can be fictional, historical, or custom-made, providing engaging and dynamic conversations powered by deep learning models. It is available as a web application and mobile app, allowing users to chat with AI characters anytime.
